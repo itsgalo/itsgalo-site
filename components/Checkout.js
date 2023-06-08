@@ -1,5 +1,5 @@
 // Checkout.js
-import PaypalCheckoutButton from './PaypalCheckoutButton';
+import PaypalCheckoutButton from './PayPalCheckoutButton';
 
 const Checkout = ({cart}) => {
   
