@@ -1,5 +1,4 @@
 //fetch Eth tokens
-import Image from 'next/image'
 import { useEffect, useState } from 'react'
 import { useEthContext } from '../context/Wallets'
 import TokenCard from './TokenCard'
