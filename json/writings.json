@@ -1,0 +1,98 @@
+[
+  {
+    "id": "digitalfabrications",
+    "name": "Digital Fabrications",
+    "imageUrl": "/images/DF01sm.jpg",
+    "description": "A collection of essays and stories on software and design.",
+    "url": "https://appliedresearchanddesign.com/product/digital-fabrications",
+    "category": "book"
+  },
+  {
+    "id": "fullspectrum",
+    "name": "Full Spectrum",
+    "imageUrl": "/images/FullSpectrum.jpeg",
+    "description": "Chapter title:\n\n'Digital Colour: A Semi-Technical Reflection'\n\nFrom the polychromy of the ancients to the great white interiors of high modernism, this book explores the exciting role of colour in the world of architecture.",
+    "url": "https://www.ribabooks.com/Full-Spectrum-Colour-in-Contemporary-Architecture_9781915722034#",
+    "category": "book chapter"
+  },
+  {
+    "id": "weirdscience",
+    "name": "'Weird Science'",
+    "imageUrl": "/images/WeirdScience.png",
+    "description": "At times, supposedly sustainable solutions reveal peculiar contradictions. For architects and design educators, Polylactic Acid (PLA) has emerged as an accessible and sustainable material for prototyping. However, its popularity also reveals a tension between democratic access to “making” tools and the inevitable increase in waste these tools produce. This micronarrative traces a short history of the increasingly widespread 3D-printing material and critically reflects on its contemporary values and contexts.",
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/10464883.2022.2097540",
+    "category": "journal essay"
+  },
+  {
+    "id": "carceraltales",
+    "name": "'Carceral Tales'",
+    "imageUrl": "/images/CarceralTales.png",
+    "description": "Carceral Tales: A Report on Prison Pedagogy",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10464883.2021.1947697",
+    "category": "journal essay"
+  },
+  {
+    "id": "natureenclosure",
+    "name": "Nature of Enclosure",
+    "imageUrl": "/images/NatureEnclosure.jpeg",
+    "description": "Chapter title:\n\n'Astropolis, Aquapolis, Aeropolis: Capital’s Enclosure'\n\nNature of Enclosure is a series of conversations to gather experts from a range of disciplines, including architects, landscape architects, architectural historians, design theory scholars, geographers, historians of science and technology, and professionals at the intersection of architecture and the environment. Organized in three parts, (1) Nature of the Synthetic Environment, (2) Air, Capital and the Planetary Imaginary, and (3) Enclosed Boundaries of Political Geographies, this book continues the conversation with a collection of essays as both reflections from the provocative discussions and expanding the discourse of enclosed environments in architecture and design fields.",
+    "url": "https://actar.com/product/nature-of-enclosure/",
+    "category": "book chapter"
+  },
+  {
+    "id": "prada",
+    "name": "REM KOOLHAAS, OMA + AMO",
+    "imageUrl": "/images/Prada.jpeg",
+    "description": "Chapter title:\n\n'Delirious After All, or Why Rem Koolhaas Writes Such Good Books'\n\nSource Books in Architecture No.14: Rem Koolhaas / OMA + AMO Spaces for Prada is the most recent volume in the Source Books in Architecture series. Among the topics discussed in the book are the long-standing relationship with Prada and how the early objectives in that relationship have both maintained and shifted…",
+    "url": "https://actar.com/product/nature-of-enclosure/",
+    "category": "book chapter"
+  },
+  {
+    "id": "virtualother",
+    "name": "'Technologies of the Virtual Other'",
+    "imageUrl": "/images/VirtualOther.png",
+    "description": "Architecture today is most often produced and represented in virtual interfaces: proprietary apps, CAD/BIM programs, image editors, and scripting environments. But these instruments, designed for designing, often make certain assumptions about who architecture’s subjects are. For whom, for instance, is BIM made? What makes an ideal user? In representations such as scale figures, users, and avatars, software applications imagine subjects through their orchestration of behaviors and configuration of identities. Setting aside space-, form-, and object-making, this essay unpacks various means through which othering practices occur in virtual design environments and the values represented in the contexts of architectural software.",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10464883.2020.1790933",
+    "category": "journal essay"
+  },
+  {
+    "id": "carceraltales",
+    "name": "'Another Allegory of Simulation'",
+    "imageUrl": "/images/Simulation.png",
+    "description": "Spheres are often used to describe that which surrounds us. While “atmosphere” or “biosphere” refer to physical environments, virtual reality has engendered a type of personal sphere operating at the individual level. This micro-narrative will unpack the intricacies of a device called the Virtusphere; a personal hamster-ball like bubble for interacting with VR. Examining the Virtusphere closely, we’ll find that spheres are no longer simply interesting geometric anomalies for the projection of cosmic imagery. Instead, spheres now represent a kind of reverse-Vitruvian diagram consisting of personal bubbles—created by panoramic cameras and VR—constantly projecting simulated images back onto us.",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10464883.2019.1560815",
+    "category": "journal essay"
+  },
+  {
+    "id": "beyondsoftware",
+    "name": "'Beyond the Cruelty of Software'",
+    "imageUrl": "/images/BeyondSoftware.png",
+    "description": "Barely a month into online teaching I noticed a new type of debate occurring during university faculty meetings. Suddenly, it seemed there were numerous ongoing arguments over which software would be best suited for distance learning. Should we use Zoom, Microsoft Teams, Google Meet, or the odd sounding BlueJeans? What’s better, Slack or Blackboard? How does the Family Educational Rights and Privacy Act (FERPA) and security factor into our software preferences? It wasn’t a simple argument over specific computer applications; individuals had to convince other faculty that their preferred tool was the best, the most powerful, the most productive, or the most efficient. Absent from these judgements on software, however, was any mention of compassion, community, pleasure, or delight. No one associated software with anything meant to spark joy. There was only productivity and efficiency.",
+    "url": "https://www.carthamagazine.com/issue/5-2/",
+    "category": "magazine essay"
+  },
+  {
+    "id": "simplegesture",
+    "name": "'A Simple Gesture'",
+    "imageUrl": "/images/SimpleGesture.png",
+    "description": "Ivan Sutherland’s quip on simplicity should raise eyebrows for two reasons. The first is that he is a mathematician and therefore may have a skewed view of what is considered simple; the second is that for the past sixty years he has worked with incredibly complex mechanisms of computer graphics. In fact, it was Sutherland who codified the most primitive of gestures for architects and designers: the virtual straight line. While we may take it as a given today, designing how one draws a line with electricity was no easy feat.",
+    "url": "https://www.platjournal.com/shop/80-simplicity",
+    "category": "journal essay"
+  },
+  {
+    "id": "vigilantism",
+    "name": "'Architecture in the Age of (super)Heroes'",
+    "imageUrl": "/images/vigilantism.png",
+    "description": "Galo Canizares on superheroes and how the fights for supposed justice generate much collateral damage, making architecture—or rather the destruction of architecture—a significant component of their narratives.",
+    "url": "https://mascontext.com/issues/vigilantism/architecture-in-the-age-of-super-heroes",
+    "category": "journal essay"
+  },
+  {
+    "id": "ahistory",
+    "name": "'A History (of our Planet)'",
+    "imageUrl": "/images/thresholds.png",
+    "description": "The following are excerpts from the introduction to the textbook, A History of Our Planet: M.Y.1-100. In this provocative upcoming book, the author proposes a new—or rather revised anachronistic—pedagogical approach outlining the development of the past one hundred years on our planet.",
+    "url": "https://direct.mit.edu/thld/issue/number/45",
+    "category": "journal essay"
+  }
+]

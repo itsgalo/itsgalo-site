@@ -1,0 +1,93 @@
+.navbar {
+  display: block;
+  background-color: #eee;
+  top: 0;
+  height: 10vh;
+  width: 100vw;
+  position: fixed;
+  z-index: 9999;
+}
+.title {
+  font-size: 1.2rem;
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+.navlink {
+  display: flex;
+  min-width: 14.28%;
+  list-style: none;
+  height: 5vh;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  border-right: 1px solid black;
+  transition: all 0.5s ease-in-out;
+}
+.lastlink {
+  display: flex;
+  min-width: 14.28%;
+  list-style: none;
+  height: 5vh;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  transition: all 0.5s ease-in-out;
+}
+.navlink a, .lastlink a {
+  width: 100%;
+  text-decoration: none;
+  word-break: keep-all;
+}
+.navlink:hover, .lastlink:hover {
+  background-color: black;
+  color: #fff;
+}
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  height: 5vh;
+  width: 100vw;
+  border-bottom: 1px solid black;
+}
+.clock {
+  line-height: 5vh;
+  width: 14.28%;
+  font-size: 1.9vw;
+  text-align: center;
+  text-transform: uppercase;
+  border-right: 1px solid black;
+}
+.connectButtons {
+  border-left: 1px solid black;
+  float: right;
+}
+
+.connectButtons button {
+  height: 5vh;
+  width: 25vw;
+  background-color: white;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: inherit;
+  font-family: inherit;
+  border-bottom: 1px solid black;
+}
+
+.connectButtons button:hover {
+  color: white;
+  background-color: black;
+}
+
+.error {
+  position: absolute;
+  line-height: 5vh;
+  left: 24.00%;
+  top: 0;
+}

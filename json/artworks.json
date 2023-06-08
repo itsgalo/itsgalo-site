@@ -1,0 +1,82 @@
+[
+  {
+    "id": "silica",
+    "name": "SILICA",
+    "imageUrl": "/images/SILICA-220401-01.gif",
+    "description": "unique digital artwork made with custom software\n\nformat: GIF\n\nNFT editions: 50 unique on Verse\n\nprint editions: 5/5 serigraph prints available through a83 gallery\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://opensea.io/collection/silica-by-itsgalo",
+    "category": "generative/GIF loop"
+  },
+  {
+    "id": "regolith",
+    "name": "REGOLITH",
+    "imageUrl": "/images/REGOLITH-SM.gif",
+    "description": "unique single edition video artwork made with custom software\n\nformat: MP4 video\n\nNFT editions: 1/1\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://foundation.app/@itsgalo/regolith/1",
+    "category": "generative/video loop"
+  },
+  {
+    "id": "raster",
+    "name": "RASTER",
+    "imageUrl": "/images/RASTER0.gif",
+    "description": "long-form generative javascript-based artwork\n\nArt Blocks Curated Collection Series 8\n\nNFT editions: 400\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://www.artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "skeuomorphs",
+    "name": "SKEUOMORPHS",
+    "imageUrl": "/images/SKEUOMORPHS0.png",
+    "description": "long-form generative javascript-based artwork\n\nArt Blocks Presents Collection\n\nNFT editions: 300\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://www.artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/422",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "sobel",
+    "name": "SOBEL",
+    "imageUrl": "/images/SOBEL-36.gif",
+    "description": "long-form generative javascript-based artwork\n\nGEN.ART Collection\n\nNFT editions: 41/100\n\nprint editions: 1 unique available as a rug through Furnigible\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://gen.art/drops/sobel",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "surfers",
+    "name": "SURFERS",
+    "imageUrl": "/images/SURFERS-0.gif",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/22480",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "computers",
+    "name": "COMPUTERS",
+    "imageUrl": "/images/COMPUTERS-3.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/19726",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "computation",
+    "name": "COMPUTATION",
+    "imageUrl": "/images/COMPUTATION-230423-36230.gif",
+    "description": "unique digital artwork made with custom software\n\nformat: GIF\n\nNFT editions: varies\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://foundation.app/@itsgalo/lpgalo/2",
+    "category": "generative/GIF loop"
+  },
+  {
+    "id": "strokers",
+    "name": "STROKERS",
+    "imageUrl": "/images/STROKERS-6.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/1441",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "loopers",
+    "name": "LOOPERS",
+    "imageUrl": "/images/LOOPERS-37.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/slug/loopers",
+    "category": "long-form generative/javascript"
+  }
+]

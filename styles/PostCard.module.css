@@ -1,0 +1,131 @@
+.card {
+  display: flex;
+  width: 50%;
+  height: calc((100vh - 10vh) / 2);
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  transition: all 0.5s ease-in-out;
+}
+.card:nth-child(4n) {
+  border-right: none;
+}
+.image {
+  object-fit: cover;
+  transition: all 5s cubic-bezier(0.14, 0.96, 0.91, 0.6);
+}
+.info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background: white;
+  padding: 1.5rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.card:hover .info {
+  opacity: 0.9;
+}
+
+.post {
+  width: 100vw;
+  height: calc((100vh - 10vh) / 4);
+  border: 1px solid black;
+  margin-bottom: 10px;
+  -webkit-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+
+/* accordion animation */
+
+.accordion-menu {
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  border-bottom: 1px solid black;
+}
+
+.accordion-menu__item {
+  max-height: 5vh;
+  background-color: #eee;
+  border-top: 1px solid black;
+  transition: all 0.5s ease-in-out;
+}
+
+.accordion-menu__item--inactive {
+  overflow: hidden;
+}
+
+.accordion-menu__item--active {
+  max-height: 100vh;
+}
+
+.accordion-menu__header {
+  display: flex;
+  height: 5vh;
+  flex-direction: row;
+  align-items: center;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.accordion-menu__header:hover {
+  background-color: black;
+  color: #eee;
+}
+
+.accordion-menu__header h1 {
+  font-size: 1rem;
+  padding: 1.2rem;
+  width: 50%;
+}
+
+.details {
+  display: flex;
+  height: 5vh;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  float: right;
+  border-left: 1px solid black;
+}
+
+.details h2 {
+  font-size: 1rem;
+  padding: 1.2rem;
+}
+
+.accordion-menu__content {
+  padding: 1rem;
+  background-color: #eee;
+  color: black;
+  border-top: 1px solid black;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s ease-in-out;
+  white-space: pre-line;
+}
+
+.accordion-menu__content--active {
+  padding: 1rem;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.2s ease-in-out;
+  white-space: pre-line;
+}
+
+.accordion-menu__content a:hover {
+  background-color: black;
+  color: #eee;
+}
+
+@media only screen and (max-width: 750px){
+  .accordion-menu__header h1 {
+    width: 65%;
+  }
+}

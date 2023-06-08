@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ukys23arc152",
+    "name": "ARC 152: Design Studio 2",
+    "description": "University of Kentucky, College of Design",
+    "date": "SPRING 2023",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "ukys23arc405",
+    "name": "Designing in Real-Time",
+    "description": "University of Kentucky, College of Design",
+    "date": "SPRING 2023",
+    "category": "workshop",
+    "url": "#"
+  },
+  {
+    "id": "ukyf22arc151",
+    "name": "ARC 151: Design Studio 1",
+    "description": "University of Kentucky, College of Design",
+    "date": "FALL 2022",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "ukyf22arc405",
+    "name": "Designing in Real-Time",
+    "description": "University of Kentucky, College of Design",
+    "date": "FALL 2022",
+    "category": "workshop",
+    "url": "#"
+  },
+  {
+    "id": "uhs22arch3397",
+    "name": "ARCH 3397: Architecture and Techno-Social Media",
+    "description": "University of Houston, Gerald D. Hines College of Architecture and Design",
+    "date": "SPRING 2022",
+    "category": "elective",
+    "url": "#"
+  },
+  {
+    "id": "uhs21arch3397",
+    "name": "ARCH 3397: Architecture and Techno-Social Media",
+    "description": "University of Houston, Gerald D. Hines College of Architecture and Design",
+    "date": "SPRING 2021",
+    "category": "elective",
+    "url": "#"
+  },
+  {
+    "id": "ttus22arch1102",
+    "name": "ARCH 1102: Architectural Representation II",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "SPRING 2022",
+    "category": "seminar",
+    "url": "#"
+  },
+  {
+    "id": "ttus22arch1302",
+    "name": "ARCH 1302: Architectural Design II",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "SPRING 2022",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "ttuf21arch1101",
+    "name": "ARCH 1101: Architectural Representation I",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "FALL 2021",
+    "category": "seminar",
+    "url": "#"
+  },
+  {
+    "id": "ttuf21arch1301",
+    "name": "ARCH 1301: Architectural Design I",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "FALL 2021",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "acadia21workshop",
+    "name": "Building Web-Based Drawing Instruments",
+    "description": "ACADIA, The Association for Computer Aided Design in Architecture",
+    "date": "FALL 2021",
+    "category": "workshop",
+    "url": "#"
+  },
+  {
+    "id": "ttus21arch5501",
+    "name": "ARCH 5501: Graduate Design Studio",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "SPRING 2021",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "ttus21arch5363",
+    "name": "ARCH 5363: Contemporary Architectural Theory II",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "SPRING 2021",
+    "category": "seminar",
+    "url": "#"
+  },
+  {
+    "id": "ttuf20arch2503",
+    "name": "ARCH 2503: Architectural Design III",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "FALL 2020",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "ttuf20arch5301",
+    "name": "ARCH 5301: Special Problems in Architecture",
+    "description": "Texas Tech University, College of Architecture",
+    "date": "FALL 2020",
+    "category": "seminar",
+    "url": "#"
+  },
+  {
+    "id": "tsoas20arc503",
+    "name": "ARC 503: Real-Time Architecture",
+    "description": "The School of Architecture (formerly The School of Architecture at Taliesin)",
+    "date": "SUMMER 2020",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "tsoas20arc505",
+    "name": "ARC 505: Hand Drawing",
+    "description": "The School of Architecture (formerly The School of Architecture at Taliesin)",
+    "date": "SUMMER 2020",
+    "category": "seminar",
+    "url": "#"
+  },
+  {
+    "id": "vtf20workshop",
+    "name": "Blender Simulation and Visualization",
+    "description": "Virginia Tech, College of Architecture, Arts, and Design",
+    "date": "SPRING 2021",
+    "category": "workshop",
+    "url": "#"
+  },
+  {
+    "id": "vtf20arch4164",
+    "name": "ARCH 4164: Computer Applications in Design",
+    "description": "Virginia Tech, College of Architecture, Arts, and Design",
+    "date": "FALL 2020",
+    "category": "elective",
+    "url": "#"
+  },
+  {
+    "id": "osus20arch4420",
+    "name": "ARCH 4420: Architectural Design VI",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "SPRING 2020",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osuf19arch4410",
+    "name": "ARCH 4410: Architectural Design V",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "FALL 2019",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osus19arch4420",
+    "name": "ARCH 4420: Architectural Design VI",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "SPRING 2019",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osuf18arch2410",
+    "name": "ARCH 2410: Architectural Design I",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "FALL 2018",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osuf18workshop",
+    "name": "ThreeJS for Architects",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "FALL 2018",
+    "category": "workshop",
+    "url": "#"
+  },
+  {
+    "id": "osus18arch2410",
+    "name": "ARCH 4420: Design Studio IV",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "SPRING 2018",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osuf17arch3410",
+    "name": "ARCH 3410: Design Studio III",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "FALL 2017",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osuf17arch2310",
+    "name": "ARCH 2310: Introduction to Design",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "FALL 2017",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osus17arch4420",
+    "name": "ARCH 4420: Design Studio IV",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "SPRING 2017",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "osuf16arch3410",
+    "name": "ARCH 3410: Design Studio III",
+    "description": "The Ohio State University, Knowlton School",
+    "date": "FALL 2016",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "sus16arc500",
+    "name": "ARC 500: Architecture’s Stories",
+    "description": "Syracuse University, School of Architecture",
+    "date": "SPRING 2016",
+    "category": "elective",
+    "url": "#"
+  },
+  {
+    "id": "sus16arc208",
+    "name": "ARC 208: Architecture Studio 4",
+    "description": "Syracuse University, School of Architecture",
+    "date": "SPRING 2016",
+    "category": "studio",
+    "url": "#"
+  },
+  {
+    "id": "suf15arc207",
+    "name": "ARC 207: Architecture Studio 3",
+    "description": "Syracuse University, School of Architecture",
+    "date": "FALL 2015",
+    "category": "studio",
+    "url": "#"
+  }
+]

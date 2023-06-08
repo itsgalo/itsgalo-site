@@ -1,16 +1,35 @@
 {
-  "name": "next-snipcart-store",
+  "name": "itsgalo-site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
-    "start": "next start"
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "9.5.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-icons": "^3.11.0"
+    "@paypal/react-paypal-js": "^7.8.3",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@taquito/beacon-wallet": "^16.0.0",
+    "@taquito/taquito": "^16.0.0",
+    "autoprefixer": "10.4.14",
+    "ethers": "^5.7.2",
+    "framer-motion": "^10.12.10",
+    "graphql": "^16.6.0",
+    "gsap": "^3.11.5",
+    "next": "^13.3.4",
+    "postcss": "8.4.23",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "tailwindcss": "3.3.2",
+    "wagmi": "^0.12.12"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
   }
 }

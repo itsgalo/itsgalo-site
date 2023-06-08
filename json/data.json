@@ -1,0 +1,162 @@
+[
+  {
+    "id": "basalt22121702",
+    "name": "BASALT-221217-02-OOB",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/BASALT-221217-02-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the BASALT series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "basalt22121901",
+    "name": "BASALT-221219-01-OOB",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/BASALT-221219-01-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the BASALT series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "basalt23060801",
+    "name": "BASALT-230608-01-OOB",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/BASALT-230608-01-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the BASALT series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "basalt23060802",
+    "name": "BASALT-230608-02-OOB",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/BASALT-230608-02-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the BASALT series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "computation1273",
+    "name": "COMPUTATION-1273",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/COMPUTATION-1273-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the COMPUTATION series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "computation72089",
+    "name": "COMPUTATION-72089",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/COMPUTATION-72089-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the COMPUTATION series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "silica22042801",
+    "name": "SILICA-220428-01-OOB",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/SILICA-220428-01-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the SILICA series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "silica22051803",
+    "name": "SILICA-220518-03-OOB",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/SILICA-220518-03-OOB.png",
+    "description": "Digital artwork made with custom software. Part of the SILICA series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "rastertest01",
+    "name": "RASTER-ARTIST-PROOF01",
+    "price": [60.00],
+    "imageUrl": "/prints/RASTER-TEST-OOB.png",
+    "description": "Digital artwork made with custom software. Out-of-band test output from the RASTER series.",
+    "url": "#",
+    "option1": ["17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "rastertest02",
+    "name": "RASTER-ARTIST-PROOF-02",
+    "price": [60.00],
+    "imageUrl": "/prints/RASTER-TEST2-OOB.png",
+    "description": "Digital artwork made with custom software. Out-of-band test output from the RASTER series.",
+    "url": "#",
+    "option1": ["17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "rastertest03",
+    "name": "RASTER-ARTIST-PROOF-03",
+    "price": [60.00],
+    "imageUrl": "/prints/RASTER-TEST3-OOB.png",
+    "description": "Digital artwork made with custom software. Out-of-band test output from the RASTER series.",
+    "url": "#",
+    "option1": ["17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "rastertest04",
+    "name": "RASTER-ARTIST-PROOF-04",
+    "price": [60.00],
+    "imageUrl": "/prints/RASTER-TEST4-OOB.png",
+    "description": "Digital artwork made with custom software. Out-of-band test output from the RASTER series.",
+    "url": "#",
+    "option1": ["17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "cutouts21090404",
+    "name": "CUTOUTS-210904-04",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/CUTOUTS-210904-04.png",
+    "description": "Digital artwork made with custom software. Part of the CUTOUTS series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "cutouts21090405",
+    "name": "CUTOUTS-210904-05",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/CUTOUTS-210904-05.png",
+    "description": "Digital artwork made with custom software. Part of the CUTOUTS series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "cutouts21090501",
+    "name": "CUTOUTS-210905-01",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/CUTOUTS-210905-01.png",
+    "description": "Digital artwork made with custom software. Part of the CUTOUTS series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  },
+  {
+    "id": "cutouts21090801",
+    "name": "CUTOUTS-210908-01",
+    "price": [30.00, 60.00],
+    "imageUrl": "/prints/CUTOUTS-210908-01.png",
+    "description": "Digital artwork made with custom software. Part of the CUTOUTS series.",
+    "url": "#",
+    "option1": ["8.5x11", "17x22"],
+    "category": "open edition"
+  }
+]

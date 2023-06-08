@@ -1,0 +1,146 @@
+[
+  {
+    "id": "230607",
+    "name": "Verse Exhibition: Generative Architecture",
+    "description": "Verse, a high-end digital art gallery, presents Generative Architecture, an exhibition curated by Alejandro Campos and Ismahelio.\n\n The show will feature work by Anaglyphic, Corneel Cannaerts & Luis E. Fraguada, Victor Doval & xnmtrc, Fleep, Kira0, office ca & {protocell:labs}, Anna Beller & Alejandro Campos, Olga Fradina, Studio Yorktown, Erik Swahn",
+    "date": "07.06.23",
+    "category": "exhibition",
+    "url": "https://verse.works/exhibitions/generative-architecture"
+  },
+  {
+    "id": "230519",
+    "name": "University of Kentucky Launches Critical Software Lab",
+    "description": "The University of Kentucky’s College of Design has announced the launch of its Critical Software Lab (CSL). Led by Assistant Professor of Architecture Galo Canizares, the lab will become a research hub for design software tools and applications.\n\n By delving into the expansive world of design software, the CSL will shed light on opportunities and challenges presented by commercial, experimental, and open-source tools. With a focus on exploring the potential and limitations of various software options, the CSL will offer practical and theoretical knowledge to supplement the use of existing design software in architecture and related fields.\n\n Said Canizares, 'The CSL is an opportunity to engage with students and faculty through customized software instruction support, custom workflows for architecture-related applications, software-related research, code and programming instruction, and the development of custom tools like plug-ins and add-ons. It’s important that students not only know how to use the software – but also understand it.'",
+    "date": "05.19.23",
+    "category": "research",
+    "url": "https://design.uky.edu/newsevent/uk-college-of-design-launches-critical-software-lab-for-design-research-and-innovation/"
+  },
+  {
+    "id": "230517",
+    "name": "Unit London Exhibition: The Pixel Generation",
+    "description": "The Pixel Generation presents work by 14 pioneering artists who use pixels to explore digital images as operating systems.\n\nOriginating in creator communities historically excluded from the art world, their work offers unique insight into the gamified aesthetics and politics of Web3. In this era of creative disruption, pixels have resurfaced as a unifying code instrumental in shaping a new ecosystem. Unit London, in collaboration with Right Click Save, proudly celebrates the artists who are currently transforming technostalgia into power, and driving the future of digital art.",
+    "date": "05.17.23-06.15.23",
+    "category": "exhibition",
+    "url": "https://unitlondon.com/voices/the-pixel-generation/"
+  },
+  {
+    "id": "230505",
+    "name": "Pressing Matters: Architectural Printmaking at MODEST common",
+    "description": "505 W Pico Blvd, Los Angeles, CA 90015\nMay 05, 6 PM - 9 PM — ends Jun 04, 2023\n\nFeaturing work by Architensions (Alessandro Orsini & Nick Roseboro), Sean Canty, Common Accounts (Miles Gertler & Igor Bragado), Galo Canizares, Chibbernoonie (Owen Nichols & Clara Syme), Jesse LeCavalier, Young & Ayata (Michael Young and Kutan Ayata), and Young-Projects (Bryan Young)\n\nMODEST common is proud to present Pressing Matters, an exhibition featuring architectural printmaking from eight architecture practices: Architensions (Alessandro Orsini & Nick Roseboro), Sean Canty, Common Accounts (Miles Gertler & Igor Bragado), Galo Canizares, Chibbernoonie (Owen Nichols & Clara Syme), Jesse LeCavalier, Young & Ayata (Michael Young and Kutan Ayata), and Young-Projects(Bryan Young).\n\nPressing Matters represents a cooperative effort with the New York gallery and printmaking studio, a83. The works exhibited here were collaboratively produced in New York in limited editions. MODEST common presents this new work to the west coast for the first time.",
+    "date": "05.05.23-06.04.23",
+    "category": "exhibition",
+    "url": "https://www.modestcommon.com/exhibitions"
+  },
+  {
+    "id": "230329",
+    "name": "SOBEL Exhibited at City-Tech Tokyo 2023",
+    "description": "SOBEL, a real-time generative artwork originally released through GEN.ART was exhibited at City-Tech Tokyo 2023 as part of a small exhibition curated by Toiminto",
+    "date": "03.27.23",
+    "category": "exhibition",
+    "url": "https://city-tech.tokyo/en/"
+  },
+  {
+    "id": "230322",
+    "name": "SKEUOMORPHS on Art Blocks",
+    "description": "SKEUOMORPHS, a long-form generative artwork, is now available on Art Blocks.\n\nSKEUOMORPHS picks up where RASTER left off as an another exploration of the materiality of pixels and rasterized imagery. Here the study of pixels narrows in on the shallow depth of on-screen interfaces and the play of low-res figure-ground effects. Moments of skeuomorphism where the 2-dimensional plane of the screen becomes slightly 3-dimensional through beveling or drop-shadows are extracted and used as abstract painterly details. These elements that are typically used to make computation and interfaces more familiar become unfamiliar on the canvas, suggesting the possibility of an aesthetic between abstraction and realism.",
+    "date": "03.22.23",
+    "category": "artwork",
+    "url": "https://www.artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/422"
+  },
+  {
+    "id": "230125",
+    "name": "Verse Exhibition: Imperfections",
+    "description": "IRL exhibition Feb 22-26\n4 Cromwell Place, South Kensington, London SW7 2JE\n\nThrough a series of artworks by digital artists, the Imperfections exhibition explores the role imperfections play in great artworks, and how the pursuit of artistic perfection appears to be a paradoxical endeavour.\n\nThe works of the generative artists included in the exhibition explores how randomness is used as a tool for creating unique and unpredictable works of art. This is achieved through algorithms that generate random patterns or colours, which are then created in the final artwork.\n\nOther digital artists included in the exhibition embrace the theme of imperfections in their work by incorporating flaws and error into their practice as a means to create pieces that are ultimately more spontaneous, organic, and less formulaic.\n\nExhibiting artists: Stuart Batchelor, Alejandro Campos, Centrefold, Paweł Grzelak, Olga Fradina, itsgalo, Jeres, Juanna Pedro, Thomas Noya, John Provencher, Ralgo, Sarah Ridgley and Erik Swahn.",
+    "date": "02.22.23-02.26.23",
+    "category": "exhibition",
+    "url": "https://verse.works/exhibitions/imperfections"
+  },
+  {
+    "id": "230125",
+    "name": "SOBEL on GEN.ART",
+    "description": "SOBEL, a long-form generative artwork, is now available on GEN.ART.\n\nSOBEL is a project about movement and the materiality of pixels. Today, we are exposed to millions of pixels every day, yet many of us rarely pay attention to the pixels themselves. We tend to look beyond the pixel at the entire image. But what if we looked at individual pixels themselves? What would they reveal?\n\nIn this project, pixels are the protagonists. Pixels are exaggerated to be much larger than they usually are in order to get a closer look at them. Each iteration of SOBEL is imagined as a giant low-resolution screen, filled with moving squares of light and color.",
+    "date": "01.25.23",
+    "category": "artwork",
+    "url": "https://gen.art/drops/sobel"
+  },
+  {
+    "id": "221119",
+    "name": "Architectural Drawing: Parallel Rules at a83",
+    "description": "a83 is pleased to present Parallel Rules the second exhibition in an ongoing Architectural Drawing series. Parallel Rules features drawn work by six architecture practices: Architensions (Alessandro Orsini and Nick Roseboro), Bruna Canepa, Carole Lévesque, Galo Canizares, Aelitta Gore / Daniel Hall, and Young & Ayata (Michael Young and Kutan Ayata).",
+    "date": "11.19.22",
+    "category": "exhibition",
+    "url": "https://www.a83.site/architectural-drawing-parallel-rules"
+  },
+  {
+    "id": "221104",
+    "name": "Seattle NFT Museum: Bit by Bit",
+    "description": "Seattle, WA -  Since the earliest mosaics of Mesopotamia, humans have been fascinated by the process of creating art from smaller fragments. These bits and pieces are the building blocks of the pixels that make up all digital images today. “Bit by Bit” pays homage to the endless outcomes we create from tiny blocks and pixels, and in this exhibition we will celebrate pixelism, 8-bit, generative, and algorithmic works.\n\n“This exhibition is the culmination of a fruitful, yet tough year for the NFT Community. Building and uplifting the artistic community is a core value of the museum- and what better way to do so, than by bringing in artists that reflect the multiplicity of talent, art genres and technique of the NFT space.” Joana Kawahara Lino, Curator in Residence at the Seattle NFT Museum.",
+    "date": "11.04.22",
+    "category": "exhibition",
+    "url": "https://www.seattlenftmuseum.com/post/bit-by-bit-exhibition"
+  },
+  {
+    "id": "220907-02",
+    "name": "Future Food Visions at the TAB 2022",
+    "description": "office ca contributed to the Future Food Visions exhibition at the 6th Tallinn Architecture Biennale.\n\n The TAB 2022 is titled “Edible; Or, The Architecture of Metabolism” and is curated by Lydia Kallipoliti, Areti Markopoulou in collaboration with Chief Local Advisor Ivan Sergejev.\n\nIn the biennale “food” is approached both literally and metaphorically. On the one hand, EDIBLE explores architectural strategies of local production and self-sufficiency, and on the other, operations that use by-products of urban life, replacing the traditional linear systems of “make, use and dispose” with circular systems that aim to limit material and resource loss.\n\nTAB 2022 will take place September – November 2022, with the opening week on the 7th–11th of September. The exhibition EDIBLE at Estonian Museum of Architecture is open until November 20.",
+    "date": "09.07.22",
+    "category": "exhibition",
+    "url": "https://www.a83.site/architectural-drawing-parallel-rules"
+  },
+  {
+    "id": "220907",
+    "name": "RASTER on Art Blocks",
+    "description": "RASTER, a long-form generative artwork, is now available on Art Blocks as part of their Curated Collection.\n\nRasterized procedural brush strokes with low transparency slowly layer themselves over each other in a rhythmic loop until they achieve colorful equilibrium. They continue to overpaint themselves endlessly. The resulting color mixtures are then quantized and dithered to separate them into patches of pixels that recall the discrete materiality of the screen: a strictly digital variation on color field painting. The resulting texture is not a skeuomorphic grain but an overt reference to the universe of screens that surround us every day. Electric light arranged in a grid, fluttering and flickering everywhere all the time.",
+    "date": "09.07.22",
+    "category": "artwork",
+    "url": "https://www.artblocks.io/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/341"
+  },
+  {
+    "id": "220210",
+    "name": "In the Round, On the Flat at Pratt SoA",
+    "description": "Techniques for representing architecture and rendering form are perpetually evolving while contemporary inclinations toward screen culture and mediating technologies have accelerated a shift in how we see and experience the physical world. Architecture is assimilated often through a series of images on a screen rather than in situ, flattening the figurative space between generative potential and resolved construct. This condition prompts inquiry into a reality where the boundary between the second and third dimensions collapses, revealing the potential of architecture's representational tools to foster innovative possibilities for form and experience.\n\nIn the Round, On the Flat examines approaches to architectural model making at a moment when material ideation and visual consumption frequently are confined to the flat space of the screen. The exhibition reveals how architects, artists, and designers negotiate relationships between representation and reality using various techniques, from manually fabricated constructs to those conceived using new technology and data processing methods. Contributions of emerging and established practitioners include studies presented as objects or as still and moving images. Collectively, the work presents different attitudes toward the visualization of design and signals change to the culture of architectural representation through projects that register a digitally immersed society in simulations of material conditions or the showcase of perception as a mediated condition.\n\nFebruary 10 - March 25, 2022\n\nPratt Institute School of Architecture\n\nHazel and Robert Siegel Gallery, Higgins Hall ",
+    "date": "02.10.22-03-25.23",
+    "category": "exhibition",
+    "url": "https://architecture.pratt.edu/articles/intheroundontheflat"
+  },
+  {
+    "id": "210210",
+    "name": "Lightweight Construction Site at Wedge Gallery",
+    "description": "Wedge Gallery, Woodbury University, Los Angeles\n\nLightweight Construction is an experiment in contextualizing and representing digital tectonics (simulated particles, 3D meshes, physics engines, etc). This project follows Gottfried Semper’s speculations on the core elements of architecture laid out in the seminal essay The Four Elements of Architecture. In Lightweight Construction, Semper’s speculative history of architecture’s fundamental elements provides a model for interpreting digital materials, contemporary visual effects, and printing culture. If Semper’s anecdotal lineage of carpets, for example, explains how weaving paved the way for needlepoint, which led to the emergence of the mosaic technique, today we can identify a similar relationship between pixelation, voxelization, and printing processes—what are pixels if not electric mosaic tiles? This historical lineage of mosaic techniques establishes the digital as something that not only existed before industrialization, but has perhaps always existed.",
+    "date": "11.05.21–12.10.21",
+    "category": "exhibition",
+    "url": "https://wedgegallery.woodbury.edu/Lightweight-Construction-site-by-office-ca"
+  },
+  {
+    "id": "210618",
+    "name": "One Object at a Time at A+D Museum",
+    "description": "Curator, Developer, and Exhibition Designer: Ebrahim Poustinchi\n\nWe live in strange days and nights where the meaning and the philosophy of physicality, digitality, presence, and absence are vaguer than ever. Today— whether we accept it or not, it is clear that our lives are hybridized, and heterogeneous. Concrete definitions are surrendering their rigid borders to blurry seams. Meanings are evolving, and growing out of their boundaries and boxes, technology becomes increasingly ubiquitous, yet its presence becomes more and more transparent and invisible; It becomes more absent!\n\nIn hazy setups as such, although “things” are not present as they “suppose” to be, there are always magical moments when “things” are morphing and blending into new “things.”\n\nSimilarly, space, scale, and architecture as one of the core mediums for spatial experience, have been operating differently. Through Zoom calls, our living room—architectural space, turns into a studio, social bar, family room, stadium, concert, or even conference venues—each as another architectural space. These examples are—or at a minimum can be, provocations to question 'space,' 'scale,' and 'architecture' in relation to virtuality, presence, and absence.\n\nA+D, One Object at a Time tries to take advantage of this haziness to propose another clarity. The show is based on a collection of digital objects by participants; objects with a variety of characteristics, articulations, and digital materiality; Inhabitable or uninhabitable, shelled or solid. However, the scale/orientation/multiplication of these objects remains vague, and open to curators' reinterpretation. The objects come together, one at a time, digitally curated, scaled, positioned, and reimagined as 'part' of a bigger 'whole.'",
+    "date": "06.18.21",
+    "category": "exhibition",
+    "url": "https://www.oneobjectatatime.com/"
+  },
+  {
+    "id": "201024",
+    "name": "ACADIA 2020 Exhibition: Distributed Proximities",
+    "description": "The Distributed Proximities conference platform is an interactive, spatial visualization of the research presented and discussed at this year’s conference. It uses machine learning algorithms to analyze the conference content, identify key terms, and cross reference these terms with over 13,000 entries in the CumInCAD repository of research presented at ACADIA and its sibling organizations CAADRIA, eCAADe, SIGraDi, ASCAAD and CAADFutures over the past 40+ years. It also serves as an exhibition and archive of all research and design work presented at the 2020 ACADIA conference.",
+    "date": "10.24.20",
+    "category": "exhibition",
+    "url": "https://2020.acadia.org/"
+  },
+  {
+    "id": "201023",
+    "name": "Let Me Tell You About My House at The Night Gallery",
+    "description": "'Curiouser and curiouser,' exclaims Alice, as she arrives in Lewis Carroll’s surreal world of the nonsensical, the absurd, and the beautiful. This year, in 2020, from September-November, The Night Gallery will screen three works in three locations in Chicago’s South and West sides: North Lawndale, Hyde Park, and Bridgeport. We are seeking film, video, animation and other works to be exhibited on the topic of Wonderland. Wonderland seeks works which re-imagine existing cultural, sociological, or personal environments through the lens of wonder—foregrounding the mystical, the weird, and the divine. Projects may, for example, reframe systemically racist narratives of “urban blight” in favor of the complex ecologies of city dreams. In a world where oppressive systems seek to produce a single hegemonic reality which foreclose on alternate futures, Wonderland features works by architects, designers, filmmakers, and other creatives which use cinematic techniques to elude monolithic understandings of the world we live in.\n\nThe Night Gallery will present the 2020 exhibitions in partnership with Principle Barbers (North Lawndale) and The Silver Room (Hyde Park), two businesses which also serve as creative event spaces by night. By expanding The Night Gallery beyond Bridgeport, we hope to build on a network of city-wide BIPOC-owned businesses that support community programming.",
+    "date": "10.23.20",
+    "category": "exhibition",
+    "url": "https://www.thenight.gallery/2020_office-ca"
+  },
+  {
+    "id": "180613",
+    "name": "Noodle Soup Installation",
+    "description": "LAKE FOREST – Ragdale, the acclaimed artists’ residency in Lake Forest, announced the winning design of the sixth annual Ragdale Ring competition – NOODLE SOUP by Galo Cañzares and Stephanie Sang Delgado.\n\nAmidst a broad field of national and international submissions, the proposal by this young design team from Columbus, Ohio stood out as one of the most original reinterpretations of the Ragdale Ring garden theatre designed by architect Howard Van Doren Shaw in 1912.",
+    "date": "06.13.18",
+    "category": "exhibition",
+    "url": "https://www.ragdale.org/ragdale-ring-competition"
+  }
+]
