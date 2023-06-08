@@ -2,7 +2,7 @@
 import PaypalCheckoutButton from './PaypalCheckoutButton';
 
 const Checkout = ({cart}) => {
-  console.log(cart);
+  
   const items = cart.map((item) => {
     //return an object formatted for a paypal product checkout
     return ({
