@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react'
 import { useEthContext } from '../context/Wallets'
 import TokenCard from './TokenCard'
-import styles from '../styles/ProductCard.module.css';
+import styles from '../styles/Page.module.css';
 
 function EthTokens() {
     const [tokenData, setTokenData] = useState(null)
@@ -46,18 +46,18 @@ function EthTokens() {
     }, [ethConnected])
 
     if (isLoading) return (
-        <div className={styles.empty}>
+        <div className={styles.PRODempty}>
             <p>loading....</p>
         </div>
     )
     if (!tokenData) return (
-        <div className={styles.empty}>
+        <div className={styles.PRODempty}>
             <p>no token data</p>
         </div>
     )
 
     return (
-        <div className={styles.list}>
+        <div className={styles.PRODlist}>
             {tokenData !== null ? tokenData.data.tokens.map(function(d, idx){
                 const src = 'https://artblocks-mainnet.s3.amazonaws.com/' + d.tokenId + '.png';
                 if (d.project.artist.id === '0xedc8a7204873071cca464ed3ac68dec4c69afea4') {

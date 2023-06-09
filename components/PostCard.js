@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import styles from '../styles/PostCard.module.css';
+import styles from '../styles/Page.module.css';
 
 function PostCard({ id, title, content, date, category, url }) {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,7 +10,7 @@ function PostCard({ id, title, content, date, category, url }) {
         onClick={() => setIsOpen(!isOpen)}>
         <div id={id} className={styles['accordion-menu__header']}>
           <h1>{title}</h1>
-          <div className={styles.details}>
+          <div className={styles.POSTdetails}>
             <h2>{date}</h2>
             <h2>{category}</h2>
           </div>

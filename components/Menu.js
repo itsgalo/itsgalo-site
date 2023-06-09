@@ -1,5 +1,5 @@
 import PostCard from './PostCard';
-import styles from '../styles/PostCard.module.css';
+import styles from '../styles/Page.module.css';
 
 function Menu({posts}) {
   return (

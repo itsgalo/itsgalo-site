@@ -46,7 +46,7 @@ export default function MyApp({ Component, pageProps, router }) {
             <Provider store={store}>
             <WagmiConfig client={client}>
                 <Layout>
-                    <Component {...pageProps} />
+                    <Component {...pageProps} key={router.asPath} />
                 </Layout>
             </WagmiConfig>
             </Provider>

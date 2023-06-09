@@ -3,7 +3,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../redux/cart.slice';
-import styles from '../styles/ProductCard.module.css';
+import styles from '../styles/Page.module.css';
 
 const ProductCard = ({ product }) => {
   const [option, setOption] = useState(product.option1[0]);
@@ -23,31 +23,31 @@ const ProductCard = ({ product }) => {
   const dispatch = useDispatch();
 
   return (
-    <div className={styles.card}>
-      <div className={styles.image} >
+    <div className={styles.PRODcard}>
+      <div className={styles.PRODimage} >
         <Image src={product.imageUrl}
         alt={product.description}
         fill
-        className={styles['centered-image']}
+        className={styles['PRODcentered-image']}
         sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         onClick={handleImgClick}
         />
         {isEnlarged && (
         <div
-          className={`${styles.enlarged} ${styles.fadeIn}`}
+          className={`${styles.PRODenlarged} ${styles.PRODfadeIn}`}
           onClick={handleImgClick}
         >
           <img src={product.imageUrl} alt={product.description} style={{ maxWidth: '90%', maxHeight: '90%' }} />
         </div>
       )}
       </div>
-      <h2 className={styles.title}>{product.name}</h2>
+      <h2 className={styles.PRODtitle}>{product.name}</h2>
       <Link href={`/category/${product.category}`}>
-        <h2 className={styles.category}>{product.category}</h2>
+        <h2 className={styles.PRODcategory}>{product.category}</h2>
       </Link>
-      <div className={styles.price}>
+      <div className={styles.PRODprice}>
         <h2>${price}</h2>
-        <div className={styles.dropdown}>
+        <div className={styles.PRODdropdown}>
           <select 
             value={option}
             onChange={(e) => {
@@ -68,7 +68,7 @@ const ProductCard = ({ product }) => {
           product.id = product.name+product.option1[product.option1idx]
           dispatch(addToCart(product))
         }}
-        className={styles.button}>
+        className={styles.PRODbutton}>
           Add to Cart
       </button>
     </div>

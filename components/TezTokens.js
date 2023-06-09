@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react'
 import { useTezContext } from "../context/Wallets";
 import TokenCard from './TokenCard';
-import styles from '../styles/ProductCard.module.css';
+import styles from '../styles/Page.module.css';
 
 function TokenGrid() {
     const [tokenData, setTokenData] = useState(null)
@@ -52,18 +52,18 @@ function TokenGrid() {
     }, [tezConnected, tezAccount])
 
     if (isLoading) return (
-        <div className={styles.empty}>
+        <div className={styles.PRODempty}>
             <p>loading...</p>
         </div>
     )
     if (!tokenData) return (
-        <div className={styles.empty}>
+        <div className={styles.PRODempty}>
             <p></p>
         </div>
     )
 
     return (
-        <div className={styles.list}>
+        <div className={styles.PRODlist}>
             {tokenData !== null ? tokenData.map(function(d, idx){
                 const src = 'https://ipfs.io/ipfs/' + d.displayUri.replace('ipfs://', '');
                 if (d.issuer.author.id === 'tz1h5ggjuAGW33VPksGmpBru2B3Cn868uxsh') {

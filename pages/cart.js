@@ -7,7 +7,7 @@ import {
   emptyCart
 } from '../redux/cart.slice';
 import Checkout from '../components/Checkout';
-import styles from '../styles/Cart.module.css';
+import styles from '../styles/Page.module.css';
 
 const CartPage = () => {
 
@@ -20,14 +20,14 @@ const CartPage = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <div className={styles.CARTcontainer}>
       {cart.length === 0 ? (
-        <div className={styles.empty}>
+        <div className={styles.CARTempty}>
           <h1>no items to display</h1>
         </div>
       ) : (
         <>
-          <div className={styles.header}>
+          <div className={styles.CARTheader}>
             <div>Image</div>
             <div>Product</div>
             <div>Price</div>
@@ -36,8 +36,8 @@ const CartPage = () => {
             <div>Total Price</div>
           </div>
           {cart.map((item, index) => (
-            <div className={styles.body} key={index}>
-              <div className={styles.image}>
+            <div className={styles.CARTbody} key={index}>
+              <div className={styles.CARTimage}>
                 <Image src={item.imageUrl}
                 alt={item.description}
                 fill
@@ -47,7 +47,7 @@ const CartPage = () => {
               <p>{item.name + " (print), " + item.option1[item.option1idx]}</p>
               <p>${item.price[item.option1idx]}</p>
               <p>{item.quantity}</p>
-              <div className={styles.buttons}>
+              <div className={styles.CARTbuttons}>
                 <button onClick={() => dispatch(incrementQuantity(item.id))}>+</button>
                 <button onClick={() => dispatch(decrementQuantity(item.id))}>-</button>
                 <button onClick={() => dispatch(removeFromCart(item.id))}>x</button>
@@ -55,7 +55,7 @@ const CartPage = () => {
               <p>${item.quantity * item.price[item.option1idx]}</p>
             </div>
           ))}
-          <div className={styles.total}>
+          <div className={styles.CARTtotal}>
             <h2>total: ${getTotalPrice()}</h2>
           </div>
           <Checkout cart={cart}/>
