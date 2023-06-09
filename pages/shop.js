@@ -18,13 +18,13 @@ export default function Shop({products}) {
       <div className={styles.tokenHeader}>
         <Eth />
       </div>
-      <EthTokens />
-      <div className={styles.tokenHeader}>
+        <EthTokens />
+      <div className={styles.midHeader}>
         <Tez />
       </div>
-      <TezTokens />
-      <div className={styles.tokenHeader}>
-      <h1>out-of-band/print-only editions</h1>
+        <TezTokens />
+      <div className={styles.header}>
+        <h1>out-of-band/print-only editions</h1>
       </div>
       <ProductList products={products}/>      
     </div>

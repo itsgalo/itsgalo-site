@@ -13,9 +13,7 @@ function Eth() {
     }
 
     return (
-        <div>
-            <h1>art blocks tokens owned by: {address}</h1>
-        </div>
+        <h1>art blocks tokens owned by: {address}</h1>
     )
 }
 

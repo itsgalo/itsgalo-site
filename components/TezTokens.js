@@ -52,18 +52,18 @@ function TokenGrid() {
     }, [tezConnected, tezAccount])
 
     if (isLoading) return (
-        <div className={styles.PRODempty}>
+        <div className={styles.tokenEmpty}>
             <p>loading...</p>
         </div>
     )
     if (!tokenData) return (
-        <div className={styles.PRODempty}>
+        <div className={styles.tokenEmpty}>
             <p></p>
         </div>
     )
 
     return (
-        <div className={styles.PRODlist}>
+        <div className={styles.tokenList}>
             {tokenData !== null ? tokenData.map(function(d, idx){
                 const src = 'https://ipfs.io/ipfs/' + d.displayUri.replace('ipfs://', '');
                 if (d.issuer.author.id === 'tz1h5ggjuAGW33VPksGmpBru2B3Cn868uxsh') {

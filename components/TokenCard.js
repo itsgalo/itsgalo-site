@@ -23,7 +23,7 @@ const TokenCard = ({ product, src }) => {
 
   return (
     <div className={styles.PRODcard}>
-      <div className={styles.PRODimage}>
+      <div className={styles.image}>
         <Image src={product.imageUrl}
         alt={product.description}
         fill
@@ -33,7 +33,7 @@ const TokenCard = ({ product, src }) => {
         />
         {isEnlarged && (
         <div
-          className={`${styles.PRODenlarged} ${styles.PRODfadeIn}`}
+          className={`${styles.enlarged} ${styles.fadeIn}`}
           onClick={handleImgClick}
         >
           <img src={product.imageUrl} alt={product.description} style={{ maxWidth: '90%', maxHeight: '90%' }} />

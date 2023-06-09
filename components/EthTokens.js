@@ -43,21 +43,21 @@ function EthTokens() {
                 setLoading(false);
             })
         })()
-    }, [ethConnected])
+    }, [ethConnected, address])
 
     if (isLoading) return (
-        <div className={styles.PRODempty}>
+        <div className={styles.tokenEmpty}>
             <p>loading....</p>
         </div>
     )
     if (!tokenData) return (
-        <div className={styles.PRODempty}>
+        <div className={styles.tokenEmpty}>
             <p>no token data</p>
         </div>
     )
 
     return (
-        <div className={styles.PRODlist}>
+        <div className={styles.tokenList}>
             {tokenData !== null ? tokenData.data.tokens.map(function(d, idx){
                 const src = 'https://artblocks-mainnet.s3.amazonaws.com/' + d.tokenId + '.png';
                 if (d.project.artist.id === '0xedc8a7204873071cca464ed3ac68dec4c69afea4') {
