@@ -1,8 +1,15 @@
 import { getPosts } from '../utils/localdata';
+import { useEffect } from 'react';
 import Menu from '../components/Menu';
 
 
 export default function Home({posts}) {
+
+  useEffect(() => {
+    // Perform localStorage action
+    const item = localStorage.getItem('key')
+  }, [])
+
   return (
     <div className="container">
       <div className='header'>
