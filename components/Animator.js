@@ -10,13 +10,13 @@ function Animator({ children }) {
   }
 
   return (
-    <AnimatePresence initial={false} mode="wait" onExitComplete={() => window.scrollTo(0, 0)}>
+    <AnimatePresence mode="wait" onExitComplete={() => window.scrollTo(0, 0)}>
         <motion.main
             variants={variants} // Pass the variant object into Framer Motion 
             initial="hidden" // Set the initial state to variants.hidden
             animate="enter" // Animated state to variants.enter
             exit="exit" // Exit state (used later) to variants.exit
-            transition={{ type: 'linear', delay: 0.2 }} // Set the transition to linear
+            transition={{ type: 'linear', delay: 0.02 }} // Set the transition to linear
             key={pathname}
         >
             {children}
