@@ -1,7 +1,7 @@
 import { getPosts } from '../utils/localdata';
 import { useEffect } from 'react';
 import Menu from '../components/Menu';
-
+import styles from '../styles/Page.module.css';
 
 export default function Home({posts}) {
 
@@ -11,8 +11,8 @@ export default function Home({posts}) {
   }, [])
 
   return (
-    <div className="container">
-      <div className='header'>
+    <div className={styles.container}>
+      <div className={styles.header}>
         <h1>{'<!--- news feed --!>'}</h1>
       </div>
       <Menu posts={posts}/>

@@ -25,7 +25,6 @@ export default function TezButtons() {
     }
     
     const getTezAccount = async () => {
-        console.log(tezConnected)
         if (wallet != null) {
             const activeAccount = await wallet.client.getActiveAccount();
             if (activeAccount) {

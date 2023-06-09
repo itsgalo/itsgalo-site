@@ -1,3 +1,8 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+*::-webkit-scrollbar {
+  display: none;
+}
+
 html,
 body {
   padding: 0;
@@ -14,6 +19,8 @@ a {
 
 * {
   box-sizing: border-box;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }
 
 img {
@@ -34,15 +41,6 @@ ul {
   list-style: none;
 }
 
-.container {
-  margin-top: 10vh;
-  min-height: 90vh;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-}
-
 canvas {
   z-index: 0;
   position: absolute;
@@ -50,66 +48,9 @@ canvas {
   margin: 0;
 }
 
-.header {
-  display: flex;
-  width: 100vw;
-  height: 5vh;
-  align-items: center;
-}
-
-.header h1 {
-  width: 100vw;
-  text-align: center;
-  font-size: inherit;
-}
-
 button {
   padding: 0.5rem 1rem;
   font-weight: normal;
-}
-
-.item-grid {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  max-width: 90%;
-}
-
-.product {
-  display: inline-block;
-  position: relative;
-  margin: 1%;
-  padding: 15px;
-  border: 1px solid lightgray;
-  width: 15vw;
-}
-
-.product:hover {
-  border-color: #ff593d;
-}
-
-.product p {
-  min-height: 25px;
-}
-
-.product span {
-  font-weight: bold;
-}
-
-.product button {
-  background-color: white;
-  color: black;
-  border: 1px solid black;
-  margin-top: 15px;
-  padding: 5px;
-}
-
-.product button:hover {
-  color: white;
-  background-color: #ff593d;
-  border: 1px solid #ff593d;
-  cursor: pointer;
 }
 
 .paypal-button-container{
@@ -117,10 +58,11 @@ button {
   flex-direction: column;
   padding: 2rem;
   width: 100vw;
+  border-bottom: 1px solid black;
 }
 .paypal-button-container div{
   margin: 0 auto;
-  width: 50vw;
+  width: 100vw;
 }
 
 @media only screen and (max-width: 750px){

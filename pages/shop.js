@@ -8,22 +8,22 @@ import styles from '../styles/Page.module.css'
 
 export default function Shop({products}) {
   return (
-    <div className={styles.SHOPcontainer}>
-      <div className={styles.SHOPheader}>
-        <div className={styles.SHOPtitle}>
+    <div className={styles.container}>
+      <div className={styles.header}>
+        <div className={styles.title}>
           <h1>{'!*-- print shop --*!'}</h1>
         </div>
         <p>digital prints are available for purchase here for both NFT editions and out-of-band print-only editions. all prints are archival giclée on heavyweight smooth matte 330gsm paper. see below for available works and sizes. artworks feature crisp, chunkky, pixels that are upscaled to fit the paper with a 1-2" margin. all are printed on demand and signed by the artist. please allow 7-14 days for processing and shipping times will vary by location.<br></br><br></br>collectors: if you hold any @itsgalo art blocks or fx(hash) tokens, please connect your wallet with the buttons above (secure connection, only reads your public wallet address) and your print-eligible tokens will appear below.</p>
       </div>
-      <div className={styles.SHOPtokenHeader}>
+      <div className={styles.tokenHeader}>
         <Eth />
       </div>
       <EthTokens />
-      <div className={styles.SHOPtokenHeader}>
+      <div className={styles.tokenHeader}>
         <Tez />
       </div>
       <TezTokens />
-      <div className={styles.SHOPtokenHeader}>
+      <div className={styles.tokenHeader}>
       <h1>out-of-band/print-only editions</h1>
       </div>
       <ProductList products={products}/>      

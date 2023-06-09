@@ -1,10 +1,11 @@
 import { getContent } from '../utils/localdata';
 import Menu from '../components/Menu';
+import styles from '../styles/Page.module.css';
 
 export default function Teaching({content}) {
   return (
-    <div className='container'>
-      <div className='header'>
+    <div className={styles.container}>
+      <div className={styles.header}>
         <h1>{'--@@++ teaching archive ++@@--'}</h1>
       </div>
       <Menu posts={content}/>   

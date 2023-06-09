@@ -20,9 +20,9 @@ const CartPage = () => {
   };
 
   return (
-    <div className={styles.CARTcontainer}>
+    <div className={styles.container}>
       {cart.length === 0 ? (
-        <div className={styles.CARTempty}>
+        <div className={styles.empty}>
           <h1>no items to display</h1>
         </div>
       ) : (

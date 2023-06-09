@@ -4,8 +4,8 @@ import styles from '../styles/Page.module.css';
 
 export default function Writing({content}) {
   return (
-    <div className='container'>
-      <div className='header'>
+    <div className={styles.container}>
+      <div className={styles.header}>
         <h1>{'$##-- selected writing --##$'}</h1>
       </div>
       <div className={styles.list}>
