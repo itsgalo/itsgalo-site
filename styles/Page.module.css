@@ -79,6 +79,18 @@
 .card:nth-child(2n) {
   border-right: none;
 }
+.banner {
+  width: 100%;
+  position: relative;
+  height: 25vh;
+}
+.banner-image {
+  padding: 1rem;
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
 .image {
   justify-content: center;
   text-align: center;

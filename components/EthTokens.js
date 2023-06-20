@@ -64,7 +64,7 @@ function EthTokens() {
                     const item = {
                         id: "abprint",
                         name: d.project.name + " #" + d.invocation,
-                        price: [60.00],
+                        price: [75.00],
                         imageUrl: src,
                         description: "A tea cup",
                         url: "https://b579-217-180-201-191.ngrok-free.app/api/products/cup",

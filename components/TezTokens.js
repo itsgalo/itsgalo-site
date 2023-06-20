@@ -70,7 +70,7 @@ function TokenGrid() {
                     const item = {
                         id: "tezosprint",
                         name: d.name,
-                        price: [60.00],
+                        price: [75.00],
                         imageUrl: src,
                         description: "A tea cup",
                         url: "https://b579-217-180-201-191.ngrok-free.app/api/products/cup",
