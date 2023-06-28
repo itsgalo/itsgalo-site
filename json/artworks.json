@@ -64,19 +64,131 @@
     "category": "generative/GIF loop"
   },
   {
-    "id": "strokers",
-    "name": "STROKERS",
-    "imageUrl": "/images/STROKERS-6.png",
-    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "id": "strata",
+    "name": "STRATA",
+    "imageUrl": "/images/STRATA-220624-05.gif",
+    "description": "mouse-painted animated composition made with custom software\n\nSCREENSPACE Collection\n\nNFT editions: 6\n\nprovenance available on the Tezos blockchain",
+    "url": "https://objkt.com/collection/KT1GSgnsJnb8K1wNhZh2C7EuRDqo7SKBa4Dw",
+    "category": "mouse-painted/GIF loop"
+  },
+  {
+    "id": "voyagers",
+    "name": "VOYAGERS",
+    "imageUrl": "/images/VOYAGERS-28.gif",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 256\n\nprovenance available on the Tezos blockchain",
     "url": "https://www.fxhash.xyz/generative/1441",
     "category": "long-form generative/javascript"
+  },
+  {
+    "id": "crusts",
+    "name": "CRUSTS",
+    "imageUrl": "/images/CRUSTS-220410-01.gif",
+    "description": "mouse-painted animated composition made with custom software\n\nSCREENSPACE Collection\n\nNFT editions: 4\n\nprovenance available on the Ethereum blockchain",
+    "url": "https://foundation.app/collection/crusts",
+    "category": "mouse-painted/GIF loop"
   },
   {
     "id": "loopers",
     "name": "LOOPERS",
     "imageUrl": "/images/LOOPERS-37.png",
     "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
-    "url": "https://www.fxhash.xyz/generative/slug/loopers",
+    "url": "https://www.fxhash.xyz/generative/384",
     "category": "long-form generative/javascript"
+  },
+  {
+    "id": "scribblers",
+    "name": "SCRIBBLERS",
+    "imageUrl": "/images/SCRIBBLERS-45.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/10974",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "samplers",
+    "name": "SAMPLERS",
+    "imageUrl": "/images/SAMPLERS-92.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 181\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/8305",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "debuggers",
+    "name": "DEBUGGERS",
+    "imageUrl": "/images/DEBUGGERS-31.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 55\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/7134",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "crashers",
+    "name": "CRASHERS",
+    "imageUrl": "/images/CRASHERS-44.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 256\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/5523",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "dancers",
+    "name": "DANCERS",
+    "imageUrl": "/images/DANCERS-85.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 256\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/4554",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "strokers",
+    "name": "STROKERS",
+    "imageUrl": "/images/STROKERS-128.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/1441",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "blobbers",
+    "name": "BLOBBERS",
+    "imageUrl": "/images/BLOBBERS-32.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/765",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "stalkers",
+    "name": "STALKERS",
+    "imageUrl": "/images/STALKERS-36.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/114",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "jugglers",
+    "name": "JUGGLERS",
+    "imageUrl": "/images/JUGGLERS-74.png",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 128\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/73",
+    "category": "long-form generative/javascript"
+  },
+  {
+    "id": "factory",
+    "name": "FACTORY",
+    "imageUrl": "/images/FACTORY-220123-02.gif",
+    "description": "mouse-painted animated composition made with custom software\n\nSCREENSPACE Collection\n\nNFT editions: 14\n\nprovenance available on the Tezos blockchain",
+    "url": "https://objkt.com/collection/KT19xtnmh64ys3Svu78JC1fxjoVFmpEsqEGV",
+    "category": "mouse-painted/GIF loop"
+  },
+  {
+    "id": "follies",
+    "name": "FOLLIES",
+    "imageUrl": "/images/FOLLIES-211108-03.gif",
+    "description": "mouse-painted animated composition made with custom software\n\nSCREENSPACE Collection\n\nNFT editions: 11\n\nprovenance available on the Tezos blockchain",
+    "url": "https://objkt.com/collection/KT1VKrZmTEcmikRYxYSjRHp4xuXEtXkDBHk6",
+    "category": "mouse-painted/GIF loop"
+  },
+  {
+    "id": "magma",
+    "name": "MAGMA",
+    "imageUrl": "/images/MAGMA-220111-02.gif",
+    "description": "mouse-painted animated composition made with custom software\n\nSCREENSPACE Collection\n\nNFT editions: 10\n\nprovenance available on the Tezos blockchain",
+    "url": "https://versum.xyz/user/tz1h5ggjuAGW33VPksGmpBru2B3Cn868uxsh/created",
+    "category": "mouse-painted/GIF loop"
   }
 ]
