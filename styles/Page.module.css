@@ -151,9 +151,10 @@
   font-size: inherit;
 }
 .close {
+  font-size: 3rem;
   position: absolute;
-  left: 20px;
-  top: 20px;
+  left: 30px;
+  top: 30px;
 }
 .close:hover {
   cursor: pointer;

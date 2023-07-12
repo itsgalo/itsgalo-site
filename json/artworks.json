@@ -1,5 +1,13 @@
 [
   {
+    "id": "printers",
+    "name": "PRINTERS",
+    "imageUrl": "/images/PRINTERS-12.gif",
+    "description": "long-form generative javascript-based artwork\n\nfx(hash) Collection\n\nNFT editions: 256\n\nprovenance available on the Tezos blockchain",
+    "url": "https://www.fxhash.xyz/generative/27817",
+    "category": "long-form generative/javascript"
+  },
+  {
     "id": "silica",
     "name": "SILICA",
     "imageUrl": "/images/SILICA-220401-01.gif",
