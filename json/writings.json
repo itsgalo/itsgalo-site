@@ -1,5 +1,13 @@
 [
   {
+    "id": "homingthemachine",
+    "name": "Homing the Machine in Architecture",
+    "imageUrl": "/images/htm.jpg",
+    "description": "An anthology of critical histories and writings on digital fabrication in architecture. Co-edited with Zach Cohen.",
+    "url": "https://www.routledge.com/Homing-the-Machine-in-Architecture/Canizares-Cohen/p/book/9781032283654",
+    "category": "book"
+  },
+  {
     "id": "digitalfabrications",
     "name": "Digital Fabrications",
     "imageUrl": "/images/DF01sm.jpg",
